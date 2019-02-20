@@ -1,4 +1,4 @@
-# clojure-noob
+# the-divine-cheese-code
 
 FIXME: description
 
@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar clojure-noob-0.1.0-standalone.jar [args]
+    $ java -jar the-divine-cheese-code-0.1.0-standalone.jar [args]
 
 ## Options
 
